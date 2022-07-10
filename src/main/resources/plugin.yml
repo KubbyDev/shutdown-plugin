@@ -1,0 +1,5 @@
+name: ShutdownPlugin
+author: Gunivers
+version: 1.0
+api-version: 1.19
+main: org.gunviers.shutdownplugin.Main

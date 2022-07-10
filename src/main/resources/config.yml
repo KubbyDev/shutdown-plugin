@@ -1,0 +1,6 @@
+shutdownDelay: 3600e3 # One hour in milliseconds
+
+# These parameters are mandatory
+#serverHash:
+#pterodactylHostname:
+#apiKey:
